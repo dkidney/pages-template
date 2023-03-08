@@ -1,0 +1,18 @@
+name: "name"
+output_dir: "."
+navbar:
+  title: "navbar title"
+  left:
+    - text: "menu 1"
+      menu:
+        - text: "basics"
+          href: basics.html
+  right:
+    - text: "how2"
+      menu:
+        - text: "dkidney"
+          href: https://github.com/dkidney
+    - icon: fa-github fa-lg
+      href: https://github.com/dkidney/pages-template
+    - icon: fa-linkedin fa-lg
+      href: https://uk.linkedin.com/in/darren-kidney-495b8a103/
